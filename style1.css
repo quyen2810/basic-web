@@ -1,0 +1,33 @@
+.picture-1{
+    width: 100px;
+    height: auto;
+}
+
+body{
+    font-family: Georgia;
+    font-size: small;
+    background-color: lavenderblush;
+    color: dimgrey;
+}
+
+.whole-article{
+    background-color: thistle;
+    padding: 5px;
+}
+
+img{
+    float: right;
+    overflow: auto;
+}
+
+h1{
+    font-size: large;
+    text-align: center;
+    color:black;
+}
+
+.picture-1{
+    float: right;
+    overflow: auto;
+    clear: right;
+}

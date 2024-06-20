@@ -1,0 +1,124 @@
+.picture-body {
+    background-color: thistle;
+    max-width: fit-content;
+    height: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+
+    display: flex;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap-reverse;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: flex-end;
+
+    align-items: last baseline;
+    justify-content: flex-end;
+    flex-flow: column wrap-reverse;
+}
+
+.picture-group {
+    background: mistyrose;
+    margin: 5px;
+    color: black;
+    width: 320px;
+    /* height: 300px; */
+    border: 1px solid darkred;
+    text-align: center;
+    line-height: 20px;
+    order: 3;
+}
+
+#g1 {
+    background: mediumslateblue;
+    color: black;
+    width: 500px;
+    /* height: 300px; */
+    border: 1px solid darkred;
+    text-align: center;
+    line-height: 20px;
+    order: 1;
+}
+
+#g2 {
+    background: mediumvioletred;
+    color: black;
+    width: 250px;
+    /* height: 350px; */
+    border: 1px solid darkred;
+    text-align: center;
+    line-height: 20px;
+    order: 4
+}
+
+#g4 {
+    background: paleturquoise;
+    color: black;
+    width: 300px;
+    /* height: 450px; */
+    border: 1px solid darkred;
+    text-align: center;
+    line-height: 20px;
+    order: 2;
+}
+
+#g3 {
+    background: mediumorchid;
+    color: black;
+    width: 350px;
+    /* height: 250px; */
+    border: 1px solid darkred;
+    text-align: center;
+    line-height: 20px;
+    order: 5;
+}
+
+#g5 {
+    background: palevioletred;
+    color: black;
+    width: 350px;
+    /* height: 300px; */
+    border: 1px solid darkred;
+    text-align: center;
+    line-height: 20px;
+    order: 6;
+}
+
+#g6 {
+    background: pink;
+    color: black;
+    width: 450px;
+    /* height: 280px; */
+    border: 1px solid darkred;
+    text-align: center;
+    line-height: 20px;
+}
+
+/* 
+.picture-group{
+    background-color: bisque;
+    width: 25%;
+    height: 45%;
+    float: left;
+    clear: right;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 4px;
+    margin-right: 4px;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+ 
+.picture-title{
+    background-color: mistyrose;
+    text-align: center;
+}
+
+.picture-caption{
+    background-color: mistyrose;
+    text-align: center;
+    max-height: 100px;
+}

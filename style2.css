@@ -1,0 +1,59 @@
+.box{
+    width: 400px;
+    height: 600px;
+    border: 5px solid darkred;
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(244, 232, 217);
+}
+
+.box2{
+    background-color: mistyrose;
+    width: 90%;
+    height: 50%;
+    border: 2px solid indianred;
+    margin: auto;
+    position: relative;
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
+    color: maroon;
+}
+
+.style-p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-55%);
+}
+
+.box3{
+    width: 48%;
+    height: 48%;
+    background-color: lightcoral;
+    border: 2px solid indianred;
+    float: left;
+    margin-top: 5px;
+}
+
+.box4{
+    width: 48%;
+    height: 48%;
+    background-color: lightpink;
+    border: 2px solid indianred;
+    float: right;
+    margin-top: 5px;
+}
+
+button{
+    background-color: rgb(114, 4, 63);
+    color: whitesmoke;
+    border: 2px solid deeppink;
+    width: 10%;
+    height: 30px;
+    position: fixed;
+    top: 75%;
+    left: 45%;
+}

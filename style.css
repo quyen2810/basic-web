@@ -1,0 +1,22 @@
+html{
+   background-color: antiquewhite; 
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+   color: saddlebrown;
+   background-color: mistyrose;
+}
+
+h1{
+   text-align: center;
+}
+
+a href{
+   text-align: right;
+}
+
+h2{
+   color:black;
+   background-color: pink;
+}

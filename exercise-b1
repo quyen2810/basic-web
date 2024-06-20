@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+   
+    <link rel="stylesheet" type="text/css" href="style-b1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="header">
+        <title>iShadeed</title>
+        <div id="link">
+            <a href="/" id="home-link"><b>iShadeed Store.</b></a>
+        </div>
+        <div id="header-right">
+            <div id="nav-bar">
+                <ul>
+                    <li><a href="/" class="nav-bar-menu">Home</a></li>
+                    <li><a href="/" class="nav-bar-menu">About</a></li>
+                    <li><a href="/" class="nav-bar-menu">Works</a></li>
+                </ul>
+            </div>
+            <div id="divider-on-header">
+                <i class="fa-solid fa-window-minimize fa-rotate-90" style="color: #ffffff;"></i>
+            </div>
+            <div id="account">
+                <span style="font-size: medium;"><b>Ahmad Shadeed</b></span>
+                <div class="avatar-navbar1">
+                    <img class="avatar-navbar1"
+                        src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                        alt="avatar">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="main-part">
+        <div class="left-panel">
+            <div class="left-panel-item">
+                <i class="fa-solid fa-house" style="color: #1b5dd0;"></i>
+                <a href="/" class="link-to-page">Home</a>
+            </div>
+            <div class="left-panel-item">
+                <i class="fa-solid fa-cart-shopping" style="color: #2a5aac;"></i>
+                <a href="/" class="link-to-page">Cart</a>
+            </div>
+            <div class="left-panel-item">
+                <i class="fa-solid fa-tag" style="color: #2a5aac;"></i>
+                <a href="/" class="link-to-page">Coupon</a>
+            </div>
+            <div class="left-panel-item">
+                <i class="fa-solid fa-star" style="color: #2a5aac;"></i>
+                <a href="/" class="link-to-page">Favourite items</a>
+            </div>
+            <div class="left-panel-item">
+                <i class="fa-solid fa-gear" style="color: #2a5aac;"></i>
+                <a href="/" class="link-to-page">Settings</a>
+            </div>
+            <a href="/" id="Privacy" style="text-align: center;">iShadeed @ 2019 <br> Privacy policy | Terms and
+                conditions</a>
+        </div>
+        <div class="column-right-panel">
+            <div class="right-top-panel">
+                <div id="right-top-panel-1st-row">
+                    <h1 id="right-top-panel-1st-row-left" style="font-size: medium;">🔥Top sellers</h1>
+                    <div id="right-top-panel-1st-row-right">
+                        <div style="font-size: medium;">Filter By
+                            <button type="button">Filter</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="top-seller-list">
+                    <div class="account-line">
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="account-line">
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                        <div class="avatar-name-order">
+                            <div>
+                                <img src="https://thumbs.dreamstime.com/z/avatar-woman-circle-girl-s-head-minimalism-vector-illustration-cartoon-flat-style-225228145.jpg"
+                                    alt="avatar" class="avatar">
+                            </div>
+                            <div class="account-name-and-orders">
+                                <div><b>John Smith</b></div>
+                                <div style="font-size: small;">154 orders</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="padding: 30px 10px 0px;">
+                        <hr>
+                    </div>
+                </div>
+                <div id="right-top-panel-2nd-row">
+                    <h1 id="right-top-panel-2nd-row-left" style="font-size: medium;">🔥Top articles</h1>
+                </div>
+                <div class="article-line">
+                    <div class="box-1-article">
+                        <div>
+                            <img src="https://solvid.co.uk/wp-content/uploads/2019/11/How-To-Write-a-News-Article.png"
+                                class="img-example">
+                        </div>
+                        <div class="article-content-intro">
+                            <a href="/" class="article-title">How to design in a log in 5 steps</a>
+                            <p style="font-size: small;">By Ahmad Shadeed</p>
+                        </div>
+                    </div>
+                    <div class="box-1-article">
+                        <div>
+                            <img src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/01/24145013/article-writing.jpg"
+                                alt="article" class="img-example">
+                        </div>
+                        <div class="article-content-intro">
+                            <a href="/" class="article-title">The Importance of UX design in Business</a>
+                            <p style="font-size: small;">By John Smith</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="article-line1">
+                    <div class="box-1-article">
+                        <div>
+                            <img src="https://solvid.co.uk/wp-content/uploads/2019/11/How-To-Write-a-News-Article.png"
+                                class="img-example">
+                        </div>
+                        <div class="article-content-intro">
+                            <a href="/" class="article-title">How to design in a log in 5 steps</a>
+                            <p style="font-size: small;">By Ahmad Shadeed</p>
+                        </div>
+                    </div>
+                    <div class="box-1-article">
+                        <div>
+                            <img src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/01/24145013/article-writing.jpg"
+                                alt="article" class="img-example">
+                        </div>
+                        <div class="article-content-intro">
+                            <a href="/" class="article-title">The Importance of UX design in Business</a>
+                            <p style="font-size: small;">By John Smith</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="right-top-panel">
+                <div><h1 id="right-top-panel-1st-row-left" style="font-size: medium;">🔥Top bla bla</h1></div>
+                <div id="search-bar-box">
+                    <div id="search-bar-input">
+                        <input type="text" placeholder="What are you looking for?">
+                    </div>
+                    <button type="button">Search</button>
+                </div>
+                <div id="bottom-page" style="margin-left: 15px;">
+                    <div class="article-bottom-page">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmoyzZ8oJx2Aixiaz_gWIiKTmrzUkF2UtbPU-QkW9zg9DiYIXYVn-OPve9bIrlVQyjHg&usqp=CAU" alt="bottom-img">
+                        <div class="article-content-intro">
+                            <a href="/" class="article-title">How to design in a log in 5 steps</a>
+                            <p style="font-size: small;">By Ahmad Shadeed</p>
+                        </div>
+                    </div>
+                    <div class="article-bottom-page">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmoyzZ8oJx2Aixiaz_gWIiKTmrzUkF2UtbPU-QkW9zg9DiYIXYVn-OPve9bIrlVQyjHg&usqp=CAU" alt="bottom-img">
+                        <div class="article-content-intro">
+                            <a href="/" class="article-title">How to design in a log in 5 steps</a>
+                            <p style="font-size: small;">By Ahmad Shadeed</p>
+                        </div>
+                    </div>
+                    <div class="article-bottom-page">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmoyzZ8oJx2Aixiaz_gWIiKTmrzUkF2UtbPU-QkW9zg9DiYIXYVn-OPve9bIrlVQyjHg&usqp=CAU" alt="bottom-img">
+                        <div class="article-content-intro">
+                            <a href="/" class="article-title">How to design in a log in 5 steps</a>
+                            <p style="font-size: small;">By Ahmad Shadeed</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
